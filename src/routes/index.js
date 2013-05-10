@@ -21,7 +21,7 @@ exports = module.exports = function (db) {
 
 
     exports.hello = function (req, res) {
-        res.send('Hello World - now automatically deployed!');
+        res.send('Hello World - Suck it, world domination!');
     };
 
 
